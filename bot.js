@@ -68,7 +68,7 @@ emeraldawal: 5,
 umpanawal: 5,
 potionawal: 1
 }
-global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
+global.thumb = fs.readFileSync('./Zimbot/aj.jpg')
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
