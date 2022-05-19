@@ -33,28 +33,28 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.owner = ['212693222334',''] //owner number +212693222334
+global.pemilik = ['212693222334'] //owner number +212693222334
+global.premium = ['212693222334'] //premium number +212693222334
 global.pengguna = 'Drips' //username
 global.footer = 'ZIM BOT INC'
 global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.ownernma = 'ايانوكوجي' //owner name
+global.packname = 'ايــانوكوجــي' //sticker package name
+global.author = '🦄' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
 global.mess = {
-    success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
-    owner: '*this feature is only for zimbot owner*',
-    group: '*Feature is only for groups!*',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature in only for the bot number',
-    wait: '*whoa wait a moment zim bot proccessing*',
-    endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
+    success: 'تم! ',
+    admin: '*هذه خاصية المشرفين!*',
+    botAdmin: '*على بوت ايانوكوجي ان يكون مشرفا اولا!*',
+    owner: '*هذا الأمر خاص لمالك البوت ايانوكوجي*',
+    group: '*لا تستعمل الميزة الا في المجموعة!*',
+    private: 'لا تستعمل الميزة الا في شات الخاص!',
+    bot: 'هذا الأمر خاص بالمالك',
+    wait: '*البوت في طور تجهيز🦄*',
+    endLimit: '*نقاطك اليومية انتهت انتظر 12 ساعة اخرى*',
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
