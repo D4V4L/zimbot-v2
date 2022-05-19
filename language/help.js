@@ -3,10 +3,9 @@
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
-//▮ZimBotInc SOFTWARE IS UNDER UZ COPYRIGHT
+//▮Yahya SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
-//▮REPORT ABUSE OF ZimBotInc SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
+//▮CONTACT OWNER: wa.me/212693222334 
 //▮WHATSAPP US : +44 7441 437150
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
@@ -29,7 +28,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
 
 // List
 exports.list = (pushname) => {
-	return`Hai kak ${pushname}👋, silahkan dipilih list menu dibawah ini🐦`
+	return`مرحبا ${pushname}👋, `
 }
 
 // All Menu
